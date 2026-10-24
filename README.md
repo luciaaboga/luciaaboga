@@ -1,6 +1,6 @@
 # 👋 Hola, soy Lucía Bogado
 
-### Desarrolladora Backend | C# · .NET · ASP.NET Core
+### Desarrolladora full stack orientada al backend
 
 Desarrollo **APIs y lógica de negocio** con **C#, ASP.NET Core y SQL Server**. Me importa que el sistema por dentro sea ordenado, sólido y fácil de mantener.
 
@@ -25,9 +25,9 @@ Terminé la Tecnicatura en Programación y **busco mi primer rol backend** en un
 
 - **[Zinclas Prisma](#)**: plataforma de gestión modular con meta-modelo dinámico (EAV), en implementación real en una empresa industrial y en mi escuela. *(C#, ASP.NET Core, Razor, Entity Framework Core, SQL Server)*
 - **[Hilo Nativo](https://hilo-nativo.vercel.app)**: sitio para un emprendimiento de cortinas a medida, con cotizador de precios y panel de administración. *(TypeScript, Turso, Drizzle ORM, React)*
-- **[Zinclas](https://github.com/galomilo/Zinclas)**: gestor de tareas para redes locales (LAN). *(ASP.NET, Entity Framework Core, Avalonia UI)*
+- **[Zinclas](https://zinclas.netlify.app/)**: gestor de tareas para redes locales (LAN). *(ASP.NET, Entity Framework Core, Avalonia UI)*
 - **[Kroma](https://github.com/luciaaboga/Kroma)**: aplicación web para editar imágenes. *(ASP.NET, Entity Framework Core, SQL Server)*
-- **[Cluster Industrial de Morón]([(https://clustermoron.com/)](https://clustermoron.com/))**: sitio que reúne a las empresas industriales del municipio. *(HTML, CSS, JavaScript)*
+- **[Cluster Industrial de Morón]((https://clustermoron.com/))**: sitio que reúne a las empresas industriales del municipio. *(HTML, CSS, JavaScript)*
 
 ---
 
